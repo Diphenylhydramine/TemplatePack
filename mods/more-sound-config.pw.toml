@@ -1,6 +1,6 @@
 filename = 'moresoundconfig-1.0.4.jar'
 name = 'Sound Device Options'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]

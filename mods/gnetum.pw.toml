@@ -1,6 +1,6 @@
 filename = 'gnetum-1.4.3.jar'
 name = 'Gnetum'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'

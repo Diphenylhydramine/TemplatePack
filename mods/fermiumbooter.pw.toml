@@ -1,6 +1,6 @@
 filename = '`FermiumBooter-1.5.2.jar'
 name = 'FermiumBooter'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]

@@ -1,6 +1,6 @@
 filename = 'fermiumasm-5.31.jar'
 name = 'FermiumASM'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'

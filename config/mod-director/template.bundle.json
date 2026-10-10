@@ -1,27 +1,16 @@
 {
-    "curse": [
-        {
-            "installationPolicy" : {
-                "name": "Sledgehammer (Thin)"
-            },
-            "addonId": 319175,
-            "fileId": 5264331
-        }
-    ],
     "modrinth": [
         {
             "installationPolicy": {
                 "name": "Alternate Current Unofficial"
             },
-            "addonId": "PnHggv3M",
-            "fileId": "3o145Db7"
+            "versionId": "3o145Db7"
         },
         {
             "installationPolicy": {
                 "name": "Mycelium"
             },
-            "addonId": "3EqWeoiF",
-            "fileId": "HH2cdEtb"
+            "versionId": "HH2cdEtb"
         }
     ]
 }

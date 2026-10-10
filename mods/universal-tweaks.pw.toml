@@ -1,6 +1,6 @@
 filename = 'UniversalTweaks-1.12.2-1.21.0.jar'
 name = 'Universal Tweaks'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'

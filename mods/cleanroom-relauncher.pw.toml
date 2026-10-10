@@ -1,6 +1,6 @@
 filename = '-cleanroom-relauncher-1.1.4.jar'
 name = 'Cleanroom Relauncher'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]

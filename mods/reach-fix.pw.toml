@@ -1,6 +1,6 @@
 filename = 'ReachFix-1.12.2-1.1.3.jar'
 name = 'Reach Fix'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]

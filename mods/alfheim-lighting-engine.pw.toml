@@ -1,6 +1,6 @@
 filename = 'Alfheim-1.6.jar'
 name = 'Alfheim Lighting Engine'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'

@@ -1,32 +1,20 @@
-filename = 'StellarCore-1.6.2.jar'
-name = 'StellarCore'
-side = ''
+filename = 'StellarCore-1.6.3.jar'
+name = 'Stellar Core'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'StellarCore-1.6.2.jar'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'StellarCore-1.6.3.jar'
 
 [download]
-hash = '6574363224fc918d4c91af85177af2064f60ba8b'
+hash = '9211fc429f21ead3eb707bc63b39e1a9fd62a55a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8946515
+file-id = 9027331
 project-id = 1064321
-
-[[x-prismlauncher-dependencies]]
-addonId = '971247'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1081696'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '460609'
-type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '419286'
@@ -37,5 +25,17 @@ addonId = '870276'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
+addonId = '1081696'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = '871198'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '460609'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '971247'
 type = 'OPTIONAL'
