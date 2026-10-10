@@ -8,7 +8,7 @@
                 "side": "CLIENT"
             },
             "addonId": "HYV8rIOO",
-            "fileId": "8g08LyyQ"
+            "fileId": "7QWn3nWi"
         }
     ],
     "url": [
@@ -19,7 +19,7 @@
             "metadata": {
                 "side": "CLIENT"
             },
-            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-0203a1fe96d07893ff76fe7146b0f1f39794c23c-20260718T011103/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
+            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-4afdabd23a81b9ebb9aeee1594e6354d826b3c26-20260724T011809/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
         },
         {
             "installationPolicy": {

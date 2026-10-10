@@ -3,8 +3,10 @@ A template that I use for my modpacks
 
 ## Included mods
 - [Alfheim](https://modrinth.com/mod/alfheim-lighting-engine) (1.6)
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-0203a1fe96d07893ff76fe7146b0f1f39794c23c-20260718T011103)
-- [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (0.6.3)
+- [Alternate Current Unofficial](https://modrinth.com/mod/alternate-current-unofficial) (1.4.2)
+- [Async Logger](https://modrinth.com/mod/asynclogger) (2.2.1)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-4afdabd23a81b9ebb9aeee1594e6354d826b3c26-20260724T011809)
+- [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (1.0.1)
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 - [FermiumASM](https://modrinth.com/mod/fermiumasm) (5.31)
 - [FermiumBooter](https://modrinth.com/mod/fermiumbooter) (1.4.1)
@@ -14,7 +16,8 @@ A template that I use for my modpacks
 - [FPS Reducer](https://modrinth.com/mod/fps-reducer) (1.20)
 - [Fugue](https://modrinth.com/mod/fugue) (0.23.7)
 - [Gnetum](https://modrinth.com/mod/gnetum) (1.4.3)
-- [MixinBooter](https://modrinth.com/mod/mixinbooter) (10.7)
+- [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.11)
+- [Mycelium](https://modrinth.com/mod/myceliumlib) (1.5.8)
 - [More Sound Config](https://modrinth.com/mod/sound-device-options) (1.0.4)
 - [NoiseThreader](https://modrinth.com/mod/noisethreader) (1.1.3)
 - [Reach Fix](https://modrinth.com/mod/reach-fix) (1.1.3)
