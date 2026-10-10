@@ -1,6 +1,6 @@
 filename = '+Fugue-0.24.4.jar'
 name = 'Fugue'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
@@ -8,11 +8,11 @@ x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '0.24.4'
 
 [download]
-hash = '1f5ca4bb8e8d03da5c843e70ecf3d29ed25abd2fbb68a0fcb72deb11ff05ad1dd185c4109c3193d7c204e7195c3958140b6fc69bb6aa018dea4e8d50331fbdf5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vylTACsh/versions/Wy9kZZUW/%2BFugue-0.24.4.jar'
+hash = '2292c5074314b85904909a45bb3b93a88ed7378c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'vylTACsh'
-version = 'Wy9kZZUW'
+[update.curseforge]
+file-id = 8878028
+project-id = 1005815

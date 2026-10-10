@@ -1,54 +1,27 @@
 {
+    "curse": [
+        {
+            "installationPolicy" : {
+                "name": "Sledgehammer (Thin)"
+            },
+            "addonId": 319175,
+            "fileId": 5264331
+        }
+    ],
     "modrinth": [
         {
             "installationPolicy": {
-                "name": "Cleanroom Relauncher"
+                "name": "Alternate Current Unofficial"
             },
-            "metadata": {
-                "side": "CLIENT"
-            },
-            "addonId": "HYV8rIOO",
-            "fileId": "nJJ53NGm"
-        }
-    ],
-    "url": [
-        {
-            "installationPolicy": {
-                "name": "Celeritas"
-            },
-            "metadata": {
-                "side": "CLIENT"
-            },
-            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-06999aabc2ea41a772ea3d0888c88a9e72d09f02-20260922T020003/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
+            "addonId": "PnHggv3M",
+            "fileId": "3o145Db7"
         },
         {
             "installationPolicy": {
-                "name": "Sledgehammer"
+                "name": "Mycelium"
             },
-            "url": "https://cdn.modrinth.com/data/QItC3hpi/versions/8FvBZSXr/Sledgehammer-1.12.2-2.0.26-thin.jar"
-        }
-    ],
-    "curse": [
-        {
-            "installationPolicy": {
-                "name": "Fixeroo"
-            },
-            "addonId": 633806,
-            "fileId": 8144778
-        },
-        {
-            "installationPolicy": {
-                "name": "Scalar Legacy"
-            },
-            "addonId": 1235372,
-            "fileId": 6842491
-        },
-        {
-            "installationPolicy": {
-                "name": "StellarCore"
-            },
-            "addonId": 1064321,
-            "fileId": 8946515
+            "addonId": "3EqWeoiF",
+            "fileId": "HH2cdEtb"
         }
     ]
 }

@@ -1,18 +1,21 @@
 filename = 'NoiseThreader-1.1.3.jar'
 name = 'NoiseThreader'
-side = 'both'
-x-prismlauncher-dependencies = []
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.3'
+x-prismlauncher-version-number = 'NoiseThreader-1.1.3.jar'
 
 [download]
-hash = 'f1d2235a7ba6e33ee12cde0f52808f56f5984e9bfa7dab88bb300fdf9c141232718f7d9cd01a48156020efc5dd9b34f4dc618bae78c0f0b3b8d4b871706a646a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/7vujVDby/versions/SqyGmoqS/NoiseThreader-1.1.3.jar'
+hash = 'c0353113de45ebb3d6d934e09770258e57d02f94'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '7vujVDby'
-version = 'SqyGmoqS'
+[update.curseforge]
+file-id = 7522969
+project-id = 1153744
+
+[[x-prismlauncher-dependencies]]
+addonId = '968474'
+type = 'REQUIRED'
