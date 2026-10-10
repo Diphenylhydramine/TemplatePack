@@ -1,4 +1,4 @@
-filename = '!configanytime-3.0.jar'
+filename = '-configanytime-3.0.jar'
 name = 'ConfigAnytime'
 side = 'both'
 x-prismlauncher-dependencies = []

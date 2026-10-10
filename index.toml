@@ -34,11 +34,11 @@ hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "e5c14d6e6d65f4b7ea138594e9f2749b730b99176ca79535ddbd4791e553a5aa"
+hash = "c61e387339f9b8a2bbf98feab9b617087f6c3498948e444d79483e02bb9b0765"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "012bab8871065684d797b263c2a09a5107da773614c0d3ceae471a48a8e8b8de"
+hash = "7245c878d83f74f805d2912a45376eb10b4872f52a62f8d5c6e67876eb292800"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/configanytime.pw.toml"
-hash = "e1264f5fc6fece66304c07722b9222640ece19bf97a91ef4fcf681d005bf2693"
+hash = "75ff9c911ae01e0fe69fdffd5888b2f8cbc83f58cee89b7859e0763bde1b6512"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/filedirector.pw.toml"
-hash = "ee003c0ee12579ac7f15672ecd561e92fcf684a39ae2b67c861bed83559b5967"
+hash = "c2aca054a01563af95f64d818c5c0db85f699523eeed2ba5fcb0a2b5af9a507d"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "a5a92dd795393f428b1a8ed716f682d90c841e270eea3bd50d9aaff62bde5b31"
+hash = "4dac693e53b70a603434bfe2d811bb500ecdf2f88496af6d0f0007bfe72f4127"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "debeec9fe270c817d800eff6bd22da6f5fb2f1e59be2d670af77f1b2db59eec9"
+hash = "c53c666c4ae4c60ae9df13b68aeae1b7d0aee70d02d75c1e6fdf170b3f2692cc"
 metafile = true
 
 [[files]]

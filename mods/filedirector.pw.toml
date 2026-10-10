@@ -1,4 +1,4 @@
-filename = '!mod-director-launchwrapper-1.9.1.jar'
+filename = '-mod-director-launchwrapper-1.9.1.jar'
 name = 'File Director'
 side = 'both'
 x-prismlauncher-dependencies = []
