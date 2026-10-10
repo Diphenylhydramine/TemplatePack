@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "42ca39db0e3ee84aaee00904ab03baac10111f1a8affbe7856d6f52cdc3e957c"
+hash = "f37e2cbe08bb2ce9c7107daefd30f1d5fc7d80694475669192b2c89ebca58bed"
 metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "e183b0d392581e800b2b6ed5f92da75868aad502b14218dbd066bd0aa78395a9"
+hash = "9317c41b09f1e81acbd395094643074e3af9815faf0586ced2fccfe2ff5cc18d"
 metafile = true
 
 [[files]]

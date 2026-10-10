@@ -1,6 +1,6 @@
 filename = 'HadEnoughItems_1.12.2-4.31.2.jar'
 name = 'Had Enough Items'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
