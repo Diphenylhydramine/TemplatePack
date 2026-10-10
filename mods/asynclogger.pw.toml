@@ -1,6 +1,6 @@
 filename = 'asynclogger-2.2.1+1.12.2-forge.jar'
 name = 'Async Logger'
-side = 'client'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
