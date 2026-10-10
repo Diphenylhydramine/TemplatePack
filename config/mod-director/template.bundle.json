@@ -9,13 +9,6 @@
             },
             "addonId": "RPniVkER",
             "fileId": "dyNfb9Sa"
-        },
-        {
-            "installationPolicy": {
-                "name": "Celeritas Leaf Culling"
-            },
-            "addonId": "Ulyqqa6E",
-            "fileId": "6gpYZ9e9"
         }
     ],
     "url": [
@@ -26,7 +19,7 @@
             "metadata": {
                 "side": "CLIENT"
             },
-            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.3-150-g6f3cb342-20260510T012945/celeritas-forge-mc12.2-2.4.0-dev.jar"
+            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.4-6-g7d0eeed5-20260601T073637/celeritas-forge-mc12.2-2.4.0-dev.jar"
         }
     ],
     "curse": [

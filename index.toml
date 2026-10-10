@@ -38,7 +38,7 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "81adf644b922bd984934c89b005a1cccadc200243cb93628aef5c1daf40d38b2"
+hash = "7902ca6a8017b3f9bffc948190be5df32d69c0a27c41f15b2ea10b040fa793d4"
 
 [[files]]
 file = "config/relauncher.json"
