@@ -32,6 +32,8 @@ Does not include any pack creation tools.
 - [Mouse Tweaks Unofficial](https://legacy.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial) (3.1.5)
 - [Reach Fix](https://modrinth.com/mod/reach-fix) (1.1.3)
 - [Red Core](https://modrinth.com/mod/red-core) (0.7.1)
+- [Scalar Legacy](https://legacy.curseforge.com/minecraft/mc-mods/scalar-legacy) (1.0.1)
 - [Sound Device Options](https://modrinth.com/mod/sound-device-options) (1.0.4)
+- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.5.22)
 - [Universal Tweaks](https://modrinth.com/mod/universal-tweaks) (1.19.1)
 - [VintageFix](https://modrinth.com/mod/vintagefix) (0.7.0)
