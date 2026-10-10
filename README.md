@@ -1,7 +1,7 @@
 # TemplatePack
 A template that I use for my modpacks
 
-# [DOWNLOAD](TemplatePack-2026.25.0.mrpack)
+# [DOWNLOAD](TemplatePack-2026.25.0.mrpack?download=1)
 
 ## Included mods
 - [Alfheim](https://modrinth.com/mod/alfheim-lighting-engine) (1.6)
