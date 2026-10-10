@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "6bf50b521ad59305ef41c28e57cd9b336b93985c17a908c8142f1edb1d21d8e9"
+hash = "0cfd9411d9bbdc6c2ecc8cbe621b53c96364055324cf95976a2d15baa5b287a3"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -26,7 +26,7 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/fugue.cfg"
-hash = "6863792e76e892a1440d65964d05ac3d6987fe624509282c36b85fed567c8a71"
+hash = "d94fafd8e42910843ee5b175ecaca2b97920d8ffe5de0182c6104cc8027b135c"
 
 [[files]]
 file = "config/mod-director/modpack.json"
@@ -34,15 +34,15 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "7c55b9cdbb7635a5fa819587235685e6ec5d5410b0d55362e9c5e7d68fc14d80"
+hash = "f291d850fa785c4ede4dce40cf743946439532f2c3ebbc1a24aa0a2b183c610e"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "5e5f691b0c5a49cd659035affebd1485edef5c12504b274541b1c70569ad992a"
+hash = "e5d37640c792014e9a6ba24168b1b9cf99c3aed8d041c7f10a91727ae411f145"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "106c3548bd78b7728b14b3f2bbe41c0946aff1e018e667cde63f1d29fec1f91c"
+hash = "51d95c6b197f63ba688d3d7f3289230617a86dc4e4485bba84ff16fac595351e"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "2f4ded94bac24978c3c08f8d53aa58292eac298f64de30c7edcff6cefb96c2f2"
+hash = "3d6318e93b200e8754a886ccbedf6a20db2d9f8a85b716a46e4065d78e967871"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "ee5be7853934caa6c441c76f03070eb174c8ab340f2b8e0d57458aa685a2e18a"
+hash = "eae91363eded520657a6f83f2b8b20e407bb06fe370b41995680542b0661ec42"
 metafile = true
 
 [[files]]

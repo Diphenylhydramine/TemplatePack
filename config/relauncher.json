@@ -1,9 +1,9 @@
 {
-  "selectedVersion": "0.5.15-alpha",
-  "latestVersion": "0.5.15-alpha",
+  "selectedVersion": "0.5.17-alpha",
+  "latestVersion": "0.5.17-alpha",
   "targetJavaVersion": 25,
   "targetVendor": "Azul Zulu",
-  "javaPath": "/home/user/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/java/azul_zulu_jre25.0.1/bin/java",
+  "javaPath": "",
   "args": "-XX:+UseCompactObjectHeaders ",
   "autoSetup": true,
   "enableRelauncher": true,
