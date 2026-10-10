@@ -14,7 +14,7 @@ hash = "b7f8fc9bc9b1d8a835cb3683be897caa78bc3f8ba37026294ce09061b9ec404b"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "cd79f914bcd3ce1ef72138ea861553178a57a9819cd574ff48b2c293993922a1"
+hash = "8048a61ca10b56eed426a38919ade8468dbec785a886a464decd0bc32b9526cb"
 
 [[files]]
 file = "config/default_key_setup.cfg"
@@ -42,7 +42,7 @@ hash = "d44584c2fbbe5ecfb245a33c9027f94b46f97557c39a43564733cbc5c911041b"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "55151cb9f08d98b002fb98877371195740ab13747ea88985e73a182e7c8b9128"
+hash = "c5b349a01522926d2fb9f6e73710cf43a778e8ac513e0a1b9f25a4c6d681d040"
 
 [[files]]
 file = "config/relauncher.json"
