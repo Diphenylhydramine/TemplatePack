@@ -20,7 +20,7 @@ Does not include any pack creation tools.
 - [FPS Reducer](https://modrinth.com/mod/fps-reducer) (1.20)
 - [Fugue](https://modrinth.com/mod/fugue) (0.23.4)
 - [Gnetum](https://modrinth.com/mod/gnetum) (1.4.1)
-- [Had Enough Items](https://modrinth.com/mod/had-enough-items) (4.30.3)
+- [Had Enough Items](https://modrinth.com/mod/had-enough-items) (4.31.1)
 - [Hide Key Binding](https://modrinth.com/mod/hide-key-binding) (1.0.0.4)
 - [Improved Cleanroom Relauncher](https://modrinth.com/mod/improved-cleanroom-relauncher) (0.3.8)
 - [Inventory Bogo Sorter](https://modrinth.com/mod/inventory-bogosorter) (1.6.2)

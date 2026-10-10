@@ -41,6 +41,10 @@ file = "config/hide_key_binding.cfg"
 hash = "d44584c2fbbe5ecfb245a33c9027f94b46f97557c39a43564733cbc5c911041b"
 
 [[files]]
+file = "config/mod-director/modpack.json"
+hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
+
+[[files]]
 file = "config/mod-director/template.bundle.json"
 hash = "c5b349a01522926d2fb9f6e73710cf43a778e8ac513e0a1b9f25a4c6d681d040"
 
@@ -104,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "684933fb65c0291ec95f314aa8695ea64b64b07e7017df8669154921c2edbf66"
+hash = "36ed5795397584dd7edfec1f3491465ab388d3d535fdb2b11fb1f263bac13760"
 metafile = true
 
 [[files]]
