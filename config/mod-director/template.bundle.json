@@ -20,6 +20,12 @@
                 "side": "CLIENT"
             },
             "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-0203a1fe96d07893ff76fe7146b0f1f39794c23c-20260718T011103/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "Sledgehammer"
+            },
+            "url": "https://cdn.modrinth.com/data/QItC3hpi/versions/8FvBZSXr/Sledgehammer-1.12.2-2.0.26-thin.jar"
         }
     ],
     "curse": [
