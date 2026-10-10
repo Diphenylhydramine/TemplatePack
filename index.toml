@@ -34,11 +34,11 @@ hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "c61e387339f9b8a2bbf98feab9b617087f6c3498948e444d79483e02bb9b0765"
+hash = "02502de755aa8114ed93cadae76aec1e3592ead96fc2af5e5a49acb1ea97b6cb"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "7245c878d83f74f805d2912a45376eb10b4872f52a62f8d5c6e67876eb292800"
+hash = "8ca03137af7c825dfd992edec94c6be383e2dd2efb3959e7dd1a91c35f20bc4e"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "4dac693e53b70a603434bfe2d811bb500ecdf2f88496af6d0f0007bfe72f4127"
+hash = "eacf3481746f91e857df4be36edb7b94de4f238823caba28c6f801257b21e9a0"
 metafile = true
 
 [[files]]

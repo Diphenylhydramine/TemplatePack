@@ -1,4 +1,4 @@
-filename = '-mixinbooter-11.14.jar'
+filename = '-mixinbooter-11.15.jar'
 name = 'MixinBooter'
 side = 'both'
 x-prismlauncher-dependencies = []
@@ -30,14 +30,14 @@ x-prismlauncher-mc-versions = [
     '1.12.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '11.14'
+x-prismlauncher-version-number = '11.15'
 
 [download]
-hash = 'b4ea3c8b4f796e4c31d7786ff35ea54f9fe0c814f6a98c71def2aa2df33f7ef14ccc9fdd3f48c9c1573bf860f4e153776832629457332b4542ef10bf03215ad1'
+hash = 'aa91f6d7fdeb838b258aa4042f993b3e299d9d13f22d2fd0b346b5615f7fa7dbbed36bd6a29c6fd3a92f0703496e86c5cc70ac87225257ae7a257ab3bcaf8055'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/G1ckZuWK/versions/ltrfLbUJ/%21mixinbooter-11.14.jar'
+url = 'https://cdn.modrinth.com/data/G1ckZuWK/versions/F7Q0tK4A/%21mixinbooter-11.15.jar'
 
 [update.modrinth]
 mod-id = 'G1ckZuWK'
-version = 'ltrfLbUJ'
+version = 'F7Q0tK4A'
