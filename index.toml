@@ -34,7 +34,7 @@ hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "1f59570062ad313c60af0499f235fa5a34794b29178db006a658021cdbdc7cae"
+hash = "2bd58bf6f263b4cc7e4ff11fd648e132a9f59c564018d9018a43908ead005eb0"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "ef52adbf55da138ca0cc7b4db02c7c8e0056ac5f2933c22b8c14ce33cf9490c3"
+hash = "560f0d23fc830d32bcc7b2758775fd71c1b50a0951a77fc4426519f53f7c10a9"
 metafile = true
 
 [[files]]
@@ -132,5 +132,5 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "d7818ac279cde02f16f9d85aef24f35cf31b8ee6b5ff8947b2c20c8504a46af3"
+hash = "4163249e3ffd160c06856d0a3cee5e68ad61f576da599356968af6aa827ac160"
 metafile = true

@@ -1,13 +1,13 @@
 # TemplatePack
 A template that I use for my modpacks
 
-# [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.25.0.mrpack?download=1)
+# [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.26.0.mrpack?download=1)
 
 ## Included mods
 - [Alfheim](https://modrinth.com/mod/alfheim-lighting-engine) (1.6)
 - [Alternate Current Unofficial](https://modrinth.com/mod/alternate-current-unofficial) (1.4.2)
 - [Async Logger](https://modrinth.com/mod/asynclogger) (2.2.2)
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-db3790215d9c08991e56af8d0eb4f0a91e786889-20260912T014305)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-2edc3d211b9abdb6c8af51d4f96cd7b201024640-20260917T015550)
 - [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (1.1.4)
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 - [FermiumASM](https://modrinth.com/mod/fermiumasm) (5.31)
@@ -16,7 +16,7 @@ A template that I use for my modpacks
 - [File Director](https://modrinth.com/mod/filedirector) (1.9.1)
 - [Fixeroo](https://legacy.curseforge.com/minecraft/mc-mods/xp-orb-clump) (2.3.7)
 - [FPS Reducer](https://modrinth.com/mod/fps-reducer) (1.20)
-- [Fugue](https://modrinth.com/mod/fugue) (0.24.3)
+- [Fugue](https://modrinth.com/mod/fugue) (0.24.4)
 - [Gnetum](https://modrinth.com/mod/gnetum) (1.4.3)
 - [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.17)
 - [Mycelium](https://modrinth.com/mod/myceliumlib) (1.5.8)
@@ -27,4 +27,4 @@ A template that I use for my modpacks
 - [Scalar Legacy](https://legacy.curseforge.com/minecraft/mc-mods/scalar-legacy) (1.0.1)
 - [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.1)
 - [Universal Tweaks](https://modrinth.com/mod/universal-tweaks) (1.20.1)
-- [VintageFix](https://modrinth.com/mod/vintagefix) (0.7.0)
+- [VintageFix](https://modrinth.com/mod/vintagefix) (0.7.1)
