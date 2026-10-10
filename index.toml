@@ -113,11 +113,6 @@ hash = "62cfc3340db629ff84c16daa3f2eb9dd562f4a92a73fc05ed72a97c0b00fc604"
 metafile = true
 
 [[files]]
-file = "mods/improved-cleanroom-relauncher.pw.toml"
-hash = "164beac28e37e8e7a25b294051b2f0363dc4ba5c2ac81bd5a3f96f729871f0ec"
-metafile = true
-
-[[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "c9dce61e13e06c809c12997fe11b42eaaa15ce71bedad7b4ac8156f08f8061bb"
 metafile = true
