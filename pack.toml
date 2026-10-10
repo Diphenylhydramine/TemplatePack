@@ -1,12 +1,12 @@
 name = "TemplatePack"
 author = "hydratedbean"
-version = "2026.15.0"
+version = "2026.15.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43eeb2ba7461a1ad6a4c34eb6caa58899e8bde7854baa519e0972ebacfc6f3ad"
+hash = "47836b2dc3af5d10f91721d60ad6e9858701b9baa7836786a70e13e5a844a5a5"
 
 [versions]
 forge = "14.23.5.2864"

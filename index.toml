@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "f9dd722d673c5f17df6e604817547a59ff8dc99283df8c2ccfe6f9373faf794d"
+hash = "c3f1fbc9014a7055a7afc2629fa96b999cde45581a3d7a98dfa79419399012b0"
 metafile = true
 
 [[files]]
