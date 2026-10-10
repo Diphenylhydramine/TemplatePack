@@ -16,7 +16,7 @@ A template that I use for my modpacks
 - [FPS Reducer](https://modrinth.com/mod/fps-reducer) (1.20)
 - [Fugue](https://modrinth.com/mod/fugue) (0.23.7)
 - [Gnetum](https://modrinth.com/mod/gnetum) (1.4.3)
-- [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.11)
+- [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.12)
 - [Mycelium](https://modrinth.com/mod/myceliumlib) (1.5.8)
 - [More Sound Config](https://modrinth.com/mod/sound-device-options) (1.0.4)
 - [NoiseThreader](https://modrinth.com/mod/noisethreader) (1.1.3)
