@@ -26,7 +26,7 @@ hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "fbc7b25e13c44fe62f1f00f2905d43992c079ffe31f6bef2303440605333e5b8"
+hash = "c17be12f668e8dd0680f0f277b5a6bfa4c0b32b059ae3e4f1c70d39bbf6edd37"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -50,7 +50,7 @@ hash = "c5b349a01522926d2fb9f6e73710cf43a778e8ac513e0a1b9f25a4c6d681d040"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "26e3398c00e0701bb36b3fdd3e54fe764a4ddd1c6443145c7dd65115bd5f36af"
+hash = "a1b2f0127fbe39f85e55b27934893e2957af2cc3386545ab12aa2a571caf208a"
 
 [[files]]
 file = "config/stellar_core.cfg"
