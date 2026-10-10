@@ -46,7 +46,7 @@ hash = "6d906514718fb5dff6e748d223697473441f31cb3eacbc2848fc09bd00017f62"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "6e5a3c87bc1d0a7f9203dd63949caf746b914bbcca67faf7b9458137d0b1ac33"
+hash = "106c3548bd78b7728b14b3f2bbe41c0946aff1e018e667cde63f1d29fec1f91c"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
