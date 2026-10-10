@@ -2,13 +2,13 @@
     "modrinth": [
         {
             "installationPolicy": {
-                "name": "Improved Cleanroom Relauncher"
+                "name": "Cleanroom Relauncher"
             },
             "metadata": {
                 "side": "CLIENT"
             },
-            "addonId": "RPniVkER",
-            "fileId": "dyNfb9Sa"
+            "addonId": "HYV8rIOO",
+            "fileId": "WmfqQKau"
         }
     ],
     "url": [
@@ -25,37 +25,10 @@
     "curse": [
         {
             "installationPolicy": {
-                "name": "Advancement Locator"
-            },
-            "addonId": 818503,
-            "fileId": 4723768
-        },
-        {
-            "installationPolicy": {
                 "name": "Fixeroo"
             },
             "addonId": 633806,
             "fileId": 8144778
-        },
-        {
-            "installationPolicy": {
-                "name": "JEI Area Fixer"
-            },
-            "metadata": {
-                "side": "CLIENT"
-            },
-            "addonId": 1085598,
-            "fileId": 8149059
-        },
-        {
-            "installationPolicy": {
-                "name": "Mouse Tweaks Unofficial"
-            },
-            "metadata": {
-                "side": "CLIENT"
-            },
-            "addonId": 461660,
-            "fileId": 5876158
         },
         {
             "installationPolicy": {

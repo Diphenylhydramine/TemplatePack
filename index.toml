@@ -21,10 +21,6 @@ file = "config/embeddium-options.json"
 hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
-file = "config/fermiummixins.cfg"
-hash = "10b3bd6e9a49f832ef26bf8a7bf00ae6fadc7f82f9a7b9383efe8c68b9f46aa1"
-
-[[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
 hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
@@ -38,11 +34,11 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "4dbb8325a0bd47d203cd1fa5c1f1ef172967fdca287dd56ee480de379b39a6f1"
+hash = "7c55b9cdbb7635a5fa819587235685e6ec5d5410b0d55362e9c5e7d68fc14d80"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "db47ebea3d7a6309c0632e03a8d5b618261bf2881f06949b90e5268599683caa"
+hash = "5e5f691b0c5a49cd659035affebd1485edef5c12504b274541b1c70569ad992a"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -51,11 +47,6 @@ hash = "106c3548bd78b7728b14b3f2bbe41c0946aff1e018e667cde63f1d29fec1f91c"
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "492ed704dd06602cb31e286366957650578ee2e8a2f24308ec796688274be1c9"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "a67719352812cd60168324d10f5e86d79de5e3ef52e73073e6fbae2a79710ac5"
 metafile = true
 
 [[files]]
@@ -71,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
 hash = "8009919392a6f9b67c9dfbdc38ee75623754667b98075bbee792fac7f057349e"
-metafile = true
-
-[[files]]
-file = "mods/fermiummixins.pw.toml"
-hash = "57dd1f791ac30c19e7422e1ca14a69a812d28740408a05273f8c9db9f1c44242"
 metafile = true
 
 [[files]]
@@ -99,23 +85,8 @@ hash = "f37e2cbe08bb2ce9c7107daefd30f1d5fc7d80694475669192b2c89ebca58bed"
 metafile = true
 
 [[files]]
-file = "mods/had-enough-items.pw.toml"
-hash = "9317c41b09f1e81acbd395094643074e3af9815faf0586ced2fccfe2ff5cc18d"
-metafile = true
-
-[[files]]
-file = "mods/lemonskin.pw.toml"
-hash = "d50fea0bd43b1a3149cf89cd8a4c63ec6f62be60f43b23bbe045749bbabec63a"
-metafile = true
-
-[[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "bc2bb42a61af78c5191b78a23c3ea79829870dcef4b29bb187d5bdf3d62730d7"
-metafile = true
-
-[[files]]
-file = "mods/noisethreader.pw.toml"
-hash = "c3f1fbc9014a7055a7afc2629fa96b999cde45581a3d7a98dfa79419399012b0"
+hash = "ee5be7853934caa6c441c76f03070eb174c8ab340f2b8e0d57458aa685a2e18a"
 metafile = true
 
 [[files]]
