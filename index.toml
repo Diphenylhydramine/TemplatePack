@@ -30,11 +30,11 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/fugue.cfg"
-hash = "5d2ac4ba7353ffa01cfefcb72fbaa4f3a5c25b4dcc71d9542df72452b2c0d030"
+hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "31c79eb90d5723d874038cfee41014bbf2879e82274ca9a3430d5e29ad06e413"
+hash = "e5c14d6e6d65f4b7ea138594e9f2749b730b99176ca79535ddbd4791e553a5aa"
 
 [[files]]
 file = "config/relauncher.json"
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "0ccf0bbffd72c112a0e9ea1f69e14d3cc815fa62162965a09893b11643db52c7"
+hash = "bd0ba559963eec1c26c2ac4a58cdd51eb9f8ac05d8b7825412d93e1d93b5f210"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "0817a101981454b7010bcb454d659f8d5fa20da2cfec7df28d10f9f26566b063"
+hash = "ef52adbf55da138ca0cc7b4db02c7c8e0056ac5f2933c22b8c14ce33cf9490c3"
 metafile = true
 
 [[files]]
