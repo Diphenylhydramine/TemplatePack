@@ -22,7 +22,7 @@ hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "1989ae0ac56f15562cbaa6a3f5f7ad1ce65ce193708629ac21bc136cc0bf70fd"
+hash = "10b3bd6e9a49f832ef26bf8a7bf00ae6fadc7f82f9a7b9383efe8c68b9f46aa1"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -38,11 +38,11 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "7902ca6a8017b3f9bffc948190be5df32d69c0a27c41f15b2ea10b040fa793d4"
+hash = "4dbb8325a0bd47d203cd1fa5c1f1ef172967fdca287dd56ee480de379b39a6f1"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "64f2d184ae299896a35717b4e7a1814cffbcf0a5dfb9d4b565f48ca1588bfca8"
+hash = "db47ebea3d7a6309c0632e03a8d5b618261bf2881f06949b90e5268599683caa"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "08979aa28b7d8edaf4f88b154fad57d7b4c6a94592d50c5c299398589b21e73a"
+hash = "2f4ded94bac24978c3c08f8d53aa58292eac298f64de30c7edcff6cefb96c2f2"
 metafile = true
 
 [[files]]
