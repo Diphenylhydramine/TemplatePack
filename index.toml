@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "49da3328858e2c1c2b75cdd62ccf38089122888ca0aefad1cb347b194448604e"
+hash = "6bf50b521ad59305ef41c28e57cd9b336b93985c17a908c8142f1edb1d21d8e9"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -10,11 +10,11 @@ hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "b7f8fc9bc9b1d8a835cb3683be897caa78bc3f8ba37026294ce09061b9ec404b"
+hash = "ea48d43c32c611cdde28355b518bcd27b0f229aee124fd316ab463d42363e1da"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "86426c18e7146cffa415f3625041669d179d2a3f224863c65b5732736d0c30be"
+hash = "50c53635c52b966cbe3bddb72324ce26dd451883bd301f1a4e8d4af8d9ad3abf"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -38,11 +38,11 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "4bc0a36709218c4ee565563d37841750e7d012a805a585eb95e927d2b481f0c6"
+hash = "81adf644b922bd984934c89b005a1cccadc200243cb93628aef5c1daf40d38b2"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "6d906514718fb5dff6e748d223697473441f31cb3eacbc2848fc09bd00017f62"
+hash = "64f2d184ae299896a35717b4e7a1814cffbcf0a5dfb9d4b565f48ca1588bfca8"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "c67100c34357c5515d461a2b7add0d09d3f64f3eae800fc6148ada92ae9adcbe"
+hash = "6ec20d1e6e758f7af141d1914ca4d25894496bbf368602e1538d2f8ce3650af3"
 metafile = true
 
 [[files]]
