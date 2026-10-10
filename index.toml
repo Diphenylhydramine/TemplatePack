@@ -14,7 +14,7 @@ hash = "b7f8fc9bc9b1d8a835cb3683be897caa78bc3f8ba37026294ce09061b9ec404b"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "8048a61ca10b56eed426a38919ade8468dbec785a886a464decd0bc32b9526cb"
+hash = "76fc2dd2fc8f4b2694755c8b15089e253943d53173c1d45b3993c983cd635c0c"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -38,11 +38,11 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "b95c183af97579d401b694e7be9c3a4010a76085c4dadaae69bba5c24bed3a63"
+hash = "9d911d01b6e69acbddea74ca6d8e9ccb5a6955e6eb126d60b9df975e6c2998e2"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "08d641ac688cd08edbc3b4f518a5e7492272668d56754ebca2c6f8e9c3b0ff48"
+hash = "6d906514718fb5dff6e748d223697473441f31cb3eacbc2848fc09bd00017f62"
 
 [[files]]
 file = "config/stellar_core.cfg"

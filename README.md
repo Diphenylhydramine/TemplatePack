@@ -11,7 +11,7 @@ Does not include any gameplay changes outside of small tweaks.
 
 - [Better Advancements](https://modrinth.com/mod/better-advancements) (0.1.0.77)
 
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (2.4.0-dev.3-146-g7ead0b54-20260416T011650)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (2.4.0-dev.3-147-g5cee11ae-20260507T012807)
 
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 
