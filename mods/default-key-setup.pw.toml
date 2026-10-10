@@ -1,0 +1,21 @@
+filename = '[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar'
+name = 'Default Key Setup'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0.5'
+
+[download]
+hash = '8be770aecfeecac432633876625c0073009cb848e8805a663185624f40c4536e7376edce0769b4b88d5c4c5f6e2eaf8bc6a5702b1854e5d8ccf88a65f7aa6d7d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WvWJ9eom/versions/WHhAnhR8/%5BMC-1.12.2%5D Default Key Setup v1.0.0.5 - 2024-12-14.jar'
+
+[update.modrinth]
+mod-id = 'WvWJ9eom'
+version = 'WHhAnhR8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iWiOURsj'
+type = 'OPTIONAL'

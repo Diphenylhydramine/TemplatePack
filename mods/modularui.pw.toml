@@ -1,0 +1,29 @@
+filename = 'modularui-3.1.3.jar'
+name = 'ModularUI'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.3'
+
+[download]
+hash = '484c3e0bd89112ee0b2cf31453478d3cdc96727432f7110ca5a5652d6f571e7ee14ba35ac1610a6872f661c73a4e4f7d5930078cc3ea5f226d369d4b9f7ae3ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ecvd12QC/versions/H9ynQUkZ/modularui-3.1.3.jar'
+
+[update.modrinth]
+mod-id = 'Ecvd12QC'
+version = 'H9ynQUkZ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'G1ckZuWK'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'CuLATCrJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

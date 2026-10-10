@@ -1,0 +1,52 @@
+filename = '!mod-director-launchwrapper-1.9.1.jar'
+name = 'File Director'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.7.2',
+    '1.7.3',
+    '1.7.4',
+    '1.7.5',
+    '1.7.6',
+    '1.7.7',
+    '1.7.8',
+    '1.7.9',
+    '1.7.10',
+    '1.8',
+    '1.8.1',
+    '1.8.2',
+    '1.8.3',
+    '1.8.4',
+    '1.8.5',
+    '1.8.6',
+    '1.8.7',
+    '1.8.8',
+    '1.8.9',
+    '1.9',
+    '1.9.1',
+    '1.9.2',
+    '1.9.3',
+    '1.9.4',
+    '1.10',
+    '1.10.1',
+    '1.10.2',
+    '1.11',
+    '1.11.1',
+    '1.11.2',
+    '1.12',
+    '1.12.1',
+    '1.12.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.9.1'
+
+[download]
+hash = '6e1791da239353d62bf5913955a1b238dfc22a9028d9ce416a70a2431a8c7b04573024a6ec71035607ba71c91fd558738407321f02aa7fce4c05b3d07ccb53c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4dRu1OUz/versions/V3i1l5tv/%21mod-director-launchwrapper-1.9.1.jar'
+
+[update.modrinth]
+mod-id = '4dRu1OUz'
+version = 'V3i1l5tv'

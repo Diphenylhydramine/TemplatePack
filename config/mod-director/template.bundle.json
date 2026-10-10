@@ -1,0 +1,62 @@
+{
+    "modrinth": [
+        {
+            "installationPolicy": {
+                "name": "Improved Cleanroom Relauncher"
+            },
+            "addonId": "RPniVkER",
+            "fileId": "dyNfb9Sa"
+        }
+    ],
+    "url": [
+        {
+            "installationPolicy": {
+                "name": "Celeritas"
+            },
+            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.3-146-g7ead0b54-20260416T011650/celeritas-forge-mc12.2-2.4.0-dev.jar"
+        },
+        {
+            "installationPolicy": {
+                "name": "FastEntityRender"
+            },
+            "url": "https://github.com/Meldexun/FastEntityRender/releases/download/v1.12.2-1.0.1/FastEntityRender-1.12.2-1.0.1.jar"
+        }
+    ],
+    "curse": [
+        {
+            "installationPolicy": {
+                "name": "Fixeroo"
+            },
+            "addonId": 633806,
+            "fileId": 7095475
+        },
+        {
+            "installationPolicy": {
+                "name": "JEI Area Fixer"
+            },
+            "addonId": 1085598,
+            "fileId": 7264095
+        },
+        {
+            "installationPolicy": {
+                "name": "Mouse Tweaks Unofficial"
+            },
+            "addonId": 461660,
+            "fileId": 5876158
+        },
+        {
+            "installationPolicy": {
+                "name": "Scalar Legacy"
+            },
+            "addonId": 1235372,
+            "fileId": 6842491
+        },
+        {
+            "installationPolicy": {
+                "name": "StellarCore"
+            },
+            "addonId": 1064321,
+            "fileId": 6480479
+        }
+    ]
+}

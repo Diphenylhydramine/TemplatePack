@@ -1,0 +1,168 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "9c71ed7bbfd3e76f0238b9019be73eb2069faf48c45720b3b47afeebaf56da74"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "b7f8fc9bc9b1d8a835cb3683be897caa78bc3f8ba37026294ce09061b9ec404b"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "cd79f914bcd3ce1ef72138ea861553178a57a9819cd574ff48b2c293993922a1"
+
+[[files]]
+file = "config/default_key_setup.cfg"
+hash = "ef99f69db20216129fa7a0d74c196e08cdc1718fbbd01641601d9e829fe0c8e4"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
+
+[[files]]
+file = "config/fermiummixins.cfg"
+hash = "fbc7b25e13c44fe62f1f00f2905d43992c079ffe31f6bef2303440605333e5b8"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer.cfg"
+hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
+
+[[files]]
+file = "config/fugue.cfg"
+hash = "6863792e76e892a1440d65964d05ac3d6987fe624509282c36b85fed567c8a71"
+
+[[files]]
+file = "config/hide_key_binding.cfg"
+hash = "d44584c2fbbe5ecfb245a33c9027f94b46f97557c39a43564733cbc5c911041b"
+
+[[files]]
+file = "config/mod-director/template.bundle.json"
+hash = "55151cb9f08d98b002fb98877371195740ab13747ea88985e73a182e7c8b9128"
+
+[[files]]
+file = "config/relauncher.json"
+hash = "26e3398c00e0701bb36b3fdd3e54fe764a4ddd1c6443145c7dd65115bd5f36af"
+
+[[files]]
+file = "config/stellar_core.cfg"
+hash = "6e5a3c87bc1d0a7f9203dd63949caf746b914bbcca67faf7b9458137d0b1ac33"
+
+[[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "492ed704dd06602cb31e286366957650578ee2e8a2f24308ec796688274be1c9"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "e1264f5fc6fece66304c07722b9222640ece19bf97a91ef4fcf681d005bf2693"
+metafile = true
+
+[[files]]
+file = "mods/default-key-setup.pw.toml"
+hash = "24740b0fe0e745394e8cebaad0bbed1e90df0bf2b434075a761c993764655829"
+metafile = true
+
+[[files]]
+file = "mods/fermiumasm.pw.toml"
+hash = "052078f027b15505cded7c3e621399453ab4aef6d94123b8efebd18fb6f1240c"
+metafile = true
+
+[[files]]
+file = "mods/fermiumbooter.pw.toml"
+hash = "8009919392a6f9b67c9dfbdc38ee75623754667b98075bbee792fac7f057349e"
+metafile = true
+
+[[files]]
+file = "mods/fermiummixins.pw.toml"
+hash = "263f1915cbf139831d6c4490d0607ae5828b5dfa0ce5a66d893d71d9bffad748"
+metafile = true
+
+[[files]]
+file = "mods/filedirector.pw.toml"
+hash = "ee003c0ee12579ac7f15672ecd561e92fcf684a39ae2b67c861bed83559b5967"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "e91e75652700e3e824655756af81ef0146fce5f56b9aa15d1588799fe6d684b0"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "08979aa28b7d8edaf4f88b154fad57d7b4c6a94592d50c5c299398589b21e73a"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "36a483e2c7335e16582c21490a53179718e7d4e90104b669e90fc623147045d2"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "684933fb65c0291ec95f314aa8695ea64b64b07e7017df8669154921c2edbf66"
+metafile = true
+
+[[files]]
+file = "mods/hide-key-binding.pw.toml"
+hash = "62cfc3340db629ff84c16daa3f2eb9dd562f4a92a73fc05ed72a97c0b00fc604"
+metafile = true
+
+[[files]]
+file = "mods/improved-cleanroom-relauncher.pw.toml"
+hash = "164beac28e37e8e7a25b294051b2f0363dc4ba5c2ac81bd5a3f96f729871f0ec"
+metafile = true
+
+[[files]]
+file = "mods/inventory-bogosorter.pw.toml"
+hash = "c9dce61e13e06c809c12997fe11b42eaaa15ce71bedad7b4ac8156f08f8061bb"
+metafile = true
+
+[[files]]
+file = "mods/key-binding-patch.pw.toml"
+hash = "1b488b1cb11c5c29fc3394fdd891e2d946961353304c8bc064adf6a332577ba0"
+metafile = true
+
+[[files]]
+file = "mods/lemonskin.pw.toml"
+hash = "d50fea0bd43b1a3149cf89cd8a4c63ec6f62be60f43b23bbe045749bbabec63a"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+hash = "bc2bb42a61af78c5191b78a23c3ea79829870dcef4b29bb187d5bdf3d62730d7"
+metafile = true
+
+[[files]]
+file = "mods/modularui.pw.toml"
+hash = "9d0534178fc19923372ed1eae398225cea41612306a347fc9129f9e37025f6ed"
+metafile = true
+
+[[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "4e8b38d7127754d2f9424632032a9ed36af4c97739abb4fec86e0c874b981b00"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "debeec9fe270c817d800eff6bd22da6f5fb2f1e59be2d670af77f1b2db59eec9"
+metafile = true
+
+[[files]]
+file = "mods/sound-device-options.pw.toml"
+hash = "8e1937e201d62cab5d1e4515c042d6689281ae85a75e5bc847ad5368c96eea4c"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "c67100c34357c5515d461a2b7add0d09d3f64f3eae800fc6148ada92ae9adcbe"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "d7818ac279cde02f16f9d85aef24f35cf31b8ee6b5ff8947b2c20c8504a46af3"
+metafile = true
