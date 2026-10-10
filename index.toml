@@ -114,6 +114,11 @@ hash = "bc2bb42a61af78c5191b78a23c3ea79829870dcef4b29bb187d5bdf3d62730d7"
 metafile = true
 
 [[files]]
+file = "mods/noisethreader.pw.toml"
+hash = "c3f1fbc9014a7055a7afc2629fa96b999cde45581a3d7a98dfa79419399012b0"
+metafile = true
+
+[[files]]
 file = "mods/reach-fix.pw.toml"
 hash = "4e8b38d7127754d2f9424632032a9ed36af4c97739abb4fec86e0c874b981b00"
 metafile = true

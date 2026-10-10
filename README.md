@@ -45,6 +45,8 @@ Does not include any gameplay changes outside of small tweaks.
 
 - [Mouse Tweaks Unofficial](https://legacy.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial) (3.1.5)
 
+- [NoiseThreader](https://modrinth.com/mod/noisethreader) (1.1.3)
+
 - [Reach Fix](https://modrinth.com/mod/reach-fix) (1.1.3)
 
 - [Red Core](https://modrinth.com/mod/red-core) (0.7.1)
