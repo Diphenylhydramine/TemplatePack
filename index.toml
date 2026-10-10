@@ -42,7 +42,7 @@ hash = "b95c183af97579d401b694e7be9c3a4010a76085c4dadaae69bba5c24bed3a63"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "a1b2f0127fbe39f85e55b27934893e2957af2cc3386545ab12aa2a571caf208a"
+hash = "08d641ac688cd08edbc3b4f518a5e7492272668d56754ebca2c6f8e9c3b0ff48"
 
 [[files]]
 file = "config/stellar_core.cfg"

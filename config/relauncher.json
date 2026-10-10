@@ -23,5 +23,5 @@
   // Optional absolute path to a Java executable. Leave null/empty to let the relauncher manage Java automatically.
   "javaPath": "/home/user/.cleanroom/relauncher/java/temurin-25-linux-x64/jdk-25-jre/bin/java",
   // Optional JVM arguments appended when launching Cleanroom.
-  "args": "-XX:+UseCompactObjectHeaders"
+  "args": "-XX:+UseCompactObjectHeaders -XX:+UseZGC"
 }
