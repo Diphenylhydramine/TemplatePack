@@ -21,6 +21,10 @@ file = "config/embeddium-options.json"
 hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
+file = "config/fermiummixins.cfg"
+hash = "2f6234b182a6f571a465cfc8a9b4cabb2397507f6a3a806f24240a4beaa50274"
+
+[[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
 hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
@@ -29,12 +33,8 @@ file = "config/fugue.cfg"
 hash = "d94fafd8e42910843ee5b175ecaca2b97920d8ffe5de0182c6104cc8027b135c"
 
 [[files]]
-file = "config/mod-director/modpack.json"
-hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
-
-[[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "f291d850fa785c4ede4dce40cf743946439532f2c3ebbc1a24aa0a2b183c610e"
+hash = "3bc43469f4f753896ecde84aa60ae1b64df94c04531ed2bc3aa303b43b1f7fc3"
 
 [[files]]
 file = "config/relauncher.json"
@@ -65,6 +65,11 @@ hash = "8009919392a6f9b67c9dfbdc38ee75623754667b98075bbee792fac7f057349e"
 metafile = true
 
 [[files]]
+file = "mods/fermiummixins.pw.toml"
+hash = "57dd1f791ac30c19e7422e1ca14a69a812d28740408a05273f8c9db9f1c44242"
+metafile = true
+
+[[files]]
 file = "mods/filedirector.pw.toml"
 hash = "ee003c0ee12579ac7f15672ecd561e92fcf684a39ae2b67c861bed83559b5967"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/mixinbooter.pw.toml"
 hash = "eae91363eded520657a6f83f2b8b20e407bb06fe370b41995680542b0661ec42"
+metafile = true
+
+[[files]]
+file = "mods/noisethreader.pw.toml"
+hash = "f9dd722d673c5f17df6e604817547a59ff8dc99283df8c2ccfe6f9373faf794d"
 metafile = true
 
 [[files]]
