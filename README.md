@@ -1,7 +1,4 @@
 # TemplatePack
-A template that I use for my modpacks
-
-# [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.29.0.zip?download=1)
 
 <details>
   <summary>Included mods</summary>
@@ -37,6 +34,3 @@ Not included by default because performance varies depending on hardware. You sh
 | Nvidia    | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
 | AMD       | [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) |
 | Intel     | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
-
-**What about OptiFine?** \
-OptiFine has a tendency to break other mods and should be avoided when possible. If for whatever reason using OptiFine is an **absolute must**, add [OptiNotFine](https://legacy.curseforge.com/minecraft/mc-mods/optinotfine).
