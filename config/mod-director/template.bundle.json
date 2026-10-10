@@ -8,7 +8,7 @@
                 "side": "CLIENT"
             },
             "addonId": "HYV8rIOO",
-            "fileId": "QMIACUzD"
+            "fileId": "nJJ53NGm"
         }
     ],
     "url": [
@@ -19,7 +19,7 @@
             "metadata": {
                 "side": "CLIENT"
             },
-            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-376d81991cb43d43659181e3e5be27a4ccccda32-20260827T051418/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
+            "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/commit-db3790215d9c08991e56af8d0eb4f0a91e786889-20260912T014305/01-celeritas-forge-mc12.2-2.4.0-dev.jar"
         },
         {
             "installationPolicy": {
@@ -48,7 +48,7 @@
                 "name": "StellarCore"
             },
             "addonId": 1064321,
-            "fileId": 8406201
+            "fileId": 8849440
         }
     ]
 }

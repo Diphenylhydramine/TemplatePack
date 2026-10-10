@@ -34,15 +34,11 @@ hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "bc4576d76837fcfd0d9ebcaa67e0ae66b54836157e0e440d625d570f7d8002f5"
-
-[[files]]
-file = "config/relauncher.json"
-hash = "8ca03137af7c825dfd992edec94c6be383e2dd2efb3959e7dd1a91c35f20bc4e"
+hash = "1f59570062ad313c60af0499f235fa5a34794b29178db006a658021cdbdc7cae"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "51d95c6b197f63ba688d3d7f3289230617a86dc4e4485bba84ff16fac595351e"
+hash = "e3c40b6cd79688e2feca23770adc95f04d69ad421ddc46381dbaa34db3abdc2c"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
@@ -101,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "eacf3481746f91e857df4be36edb7b94de4f238823caba28c6f801257b21e9a0"
+hash = "ace5ba7b9aa89c4935104c1a1bb2814f2021bb7a1f322c6fa4b0344470f20230"
 metafile = true
 
 [[files]]

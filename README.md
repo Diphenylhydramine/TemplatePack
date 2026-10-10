@@ -1,12 +1,14 @@
 # TemplatePack
 A template that I use for my modpacks
 
+# [DOWNLOAD](TemplatePack-2026.25.0.mrpack)
+
 ## Included mods
 - [Alfheim](https://modrinth.com/mod/alfheim-lighting-engine) (1.6)
 - [Alternate Current Unofficial](https://modrinth.com/mod/alternate-current-unofficial) (1.4.2)
 - [Async Logger](https://modrinth.com/mod/asynclogger) (2.2.2)
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-376d81991cb43d43659181e3e5be27a4ccccda32-20260827T051418)
-- [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (1.1.3)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-db3790215d9c08991e56af8d0eb4f0a91e786889-20260912T014305)
+- [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (1.1.4)
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 - [FermiumASM](https://modrinth.com/mod/fermiumasm) (5.31)
 - [FermiumBooter](https://modrinth.com/mod/fermiumbooter) (1.4.1)
@@ -16,13 +18,13 @@ A template that I use for my modpacks
 - [FPS Reducer](https://modrinth.com/mod/fps-reducer) (1.20)
 - [Fugue](https://modrinth.com/mod/fugue) (0.24.3)
 - [Gnetum](https://modrinth.com/mod/gnetum) (1.4.3)
-- [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.15)
+- [MixinBooter](https://modrinth.com/mod/mixinbooter) (11.17)
 - [Mycelium](https://modrinth.com/mod/myceliumlib) (1.5.8)
 - [More Sound Config](https://modrinth.com/mod/sound-device-options) (1.0.4)
 - [NoiseThreader](https://modrinth.com/mod/noisethreader) (1.1.3)
 - [Reach Fix](https://modrinth.com/mod/reach-fix) (1.1.3)
 - [Red Core](https://modrinth.com/mod/red-core) (0.7.1)
 - [Scalar Legacy](https://legacy.curseforge.com/minecraft/mc-mods/scalar-legacy) (1.0.1)
-- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.0)
+- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.1)
 - [Universal Tweaks](https://modrinth.com/mod/universal-tweaks) (1.20.1)
 - [VintageFix](https://modrinth.com/mod/vintagefix) (0.7.0)
