@@ -17,10 +17,6 @@ file = "config/Universal Tweaks - Tweaks.cfg"
 hash = "8048a61ca10b56eed426a38919ade8468dbec785a886a464decd0bc32b9526cb"
 
 [[files]]
-file = "config/default_key_setup.cfg"
-hash = "ef99f69db20216129fa7a0d74c196e08cdc1718fbbd01641601d9e829fe0c8e4"
-
-[[files]]
 file = "config/embeddium-options.json"
 hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
@@ -37,16 +33,12 @@ file = "config/fugue.cfg"
 hash = "6863792e76e892a1440d65964d05ac3d6987fe624509282c36b85fed567c8a71"
 
 [[files]]
-file = "config/hide_key_binding.cfg"
-hash = "d44584c2fbbe5ecfb245a33c9027f94b46f97557c39a43564733cbc5c911041b"
-
-[[files]]
 file = "config/mod-director/modpack.json"
 hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "c5b349a01522926d2fb9f6e73710cf43a778e8ac513e0a1b9f25a4c6d681d040"
+hash = "b95c183af97579d401b694e7be9c3a4010a76085c4dadaae69bba5c24bed3a63"
 
 [[files]]
 file = "config/relauncher.json"
@@ -62,13 +54,13 @@ hash = "492ed704dd06602cb31e286366957650578ee2e8a2f24308ec796688274be1c9"
 metafile = true
 
 [[files]]
-file = "mods/configanytime.pw.toml"
-hash = "e1264f5fc6fece66304c07722b9222640ece19bf97a91ef4fcf681d005bf2693"
+file = "mods/better-advancements.pw.toml"
+hash = "a67719352812cd60168324d10f5e86d79de5e3ef52e73073e6fbae2a79710ac5"
 metafile = true
 
 [[files]]
-file = "mods/default-key-setup.pw.toml"
-hash = "24740b0fe0e745394e8cebaad0bbed1e90df0bf2b434075a761c993764655829"
+file = "mods/configanytime.pw.toml"
+hash = "e1264f5fc6fece66304c07722b9222640ece19bf97a91ef4fcf681d005bf2693"
 metafile = true
 
 [[files]]
@@ -112,21 +104,6 @@ hash = "36ed5795397584dd7edfec1f3491465ab388d3d535fdb2b11fb1f263bac13760"
 metafile = true
 
 [[files]]
-file = "mods/hide-key-binding.pw.toml"
-hash = "62cfc3340db629ff84c16daa3f2eb9dd562f4a92a73fc05ed72a97c0b00fc604"
-metafile = true
-
-[[files]]
-file = "mods/inventory-bogosorter.pw.toml"
-hash = "c9dce61e13e06c809c12997fe11b42eaaa15ce71bedad7b4ac8156f08f8061bb"
-metafile = true
-
-[[files]]
-file = "mods/key-binding-patch.pw.toml"
-hash = "1b488b1cb11c5c29fc3394fdd891e2d946961353304c8bc064adf6a332577ba0"
-metafile = true
-
-[[files]]
 file = "mods/lemonskin.pw.toml"
 hash = "d50fea0bd43b1a3149cf89cd8a4c63ec6f62be60f43b23bbe045749bbabec63a"
 metafile = true
@@ -134,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/mixinbooter.pw.toml"
 hash = "bc2bb42a61af78c5191b78a23c3ea79829870dcef4b29bb187d5bdf3d62730d7"
-metafile = true
-
-[[files]]
-file = "mods/modularui.pw.toml"
-hash = "9d0534178fc19923372ed1eae398225cea41612306a347fc9129f9e37025f6ed"
 metafile = true
 
 [[files]]

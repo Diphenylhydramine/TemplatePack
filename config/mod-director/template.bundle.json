@@ -34,6 +34,13 @@
     "curse": [
         {
             "installationPolicy": {
+                "name": "Advancement Locator"
+            },
+            "addonId": 818503,
+            "fileId": 4723768
+        },
+        {
+            "installationPolicy": {
                 "name": "Fixeroo"
             },
             "addonId": 633806,
