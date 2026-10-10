@@ -11,7 +11,7 @@ Does not include any gameplay changes outside of small tweaks.
 
 - [Better Advancements](https://modrinth.com/mod/better-advancements) (0.1.0.77)
 
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (2.4.0-dev.3-147-g5cee11ae-20260507T012807)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (2.4.0-dev.3-150-g6f3cb342-20260510T012945)
 
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 
@@ -31,9 +31,9 @@ Does not include any gameplay changes outside of small tweaks.
 
 - [Fugue](https://modrinth.com/mod/fugue) (0.23.4)
 
-- [Gnetum](https://modrinth.com/mod/gnetum) (1.4.1)
+- [Gnetum](https://modrinth.com/mod/gnetum) (1.4.3)
 
-- [Had Enough Items](https://modrinth.com/mod/had-enough-items) (4.31.1)
+- [Had Enough Items](https://modrinth.com/mod/had-enough-items) (4.31.2)
 
 - [Improved Cleanroom Relauncher](https://modrinth.com/mod/improved-cleanroom-relauncher) (0.3.8)
 

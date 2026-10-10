@@ -38,7 +38,7 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "9d911d01b6e69acbddea74ca6d8e9ccb5a6955e6eb126d60b9df975e6c2998e2"
+hash = "e00a3008a7dda28a39cb034ff3ce8171a9330a0f209ed4ce5102128ad7412493"
 
 [[files]]
 file = "config/relauncher.json"
@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "36a483e2c7335e16582c21490a53179718e7d4e90104b669e90fc623147045d2"
+hash = "42ca39db0e3ee84aaee00904ab03baac10111f1a8affbe7856d6f52cdc3e957c"
 metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "36ed5795397584dd7edfec1f3491465ab388d3d535fdb2b11fb1f263bac13760"
+hash = "e183b0d392581e800b2b6ed5f92da75868aad502b14218dbd066bd0aa78395a9"
 metafile = true
 
 [[files]]
