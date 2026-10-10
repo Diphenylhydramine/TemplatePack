@@ -30,7 +30,7 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/fugue.cfg"
-hash = "d94fafd8e42910843ee5b175ecaca2b97920d8ffe5de0182c6104cc8027b135c"
+hash = "5d2ac4ba7353ffa01cfefcb72fbaa4f3a5c25b4dcc71d9542df72452b2c0d030"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
@@ -38,7 +38,7 @@ hash = "31c79eb90d5723d874038cfee41014bbf2879e82274ca9a3430d5e29ad06e413"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "bd2611c2c4a76e276c442ec8e1c094a21a3516d5a8d18ecb5bc26116186dc550"
+hash = "012bab8871065684d797b263c2a09a5107da773614c0d3ceae471a48a8e8b8de"
 
 [[files]]
 file = "config/stellar_core.cfg"
