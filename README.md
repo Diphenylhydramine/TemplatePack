@@ -3,7 +3,9 @@ A template that I use for my modpacks
 
 # [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.28.0.zip?download=1)
 
-## Included mods
+<details>
+  <summary>Included mods</summary>
+  
 - [Alfheim Lighting Engine](https://legacy.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine) (1.6)
 - [Alternate Current Unofficial](https://modrinth.com/mod/alternate-current-unofficial) (1.4.2)
 - [Async Logger](https://legacy.curseforge.com/minecraft/mc-mods/asynclogger) (2.2.2)
@@ -25,3 +27,16 @@ A template that I use for my modpacks
 - [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.2)
 - [Universal Tweaks](https://legacy.curseforge.com/minecraft/mc-mods/universal-tweaks) (1.21.0)
 - [VintageFix](https://legacy.curseforge.com/minecraft/mc-mods/vintagefix) (0.7.1)
+</details>
+
+## Rendering mods
+Not included by default because performance varies depending on hardware. You should test each to see which runs the best for you.
+
+| GPU Brand | Recommended Mod |
+|-----------|-----------------|
+| Nvidia    | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
+| AMD       | [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) |
+| Intel     | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
+
+**What about OptiFine?** \
+OptiFine has a tendency to break other mods and should be avoided when possible. If for whatever reason using OptiFine is an **absolute must**, add [OptiNotFine](https://legacy.curseforge.com/minecraft/mc-mods/optinotfine).
