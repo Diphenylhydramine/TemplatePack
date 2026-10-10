@@ -4,6 +4,9 @@
             "installationPolicy": {
                 "name": "Improved Cleanroom Relauncher"
             },
+            "metadata": {
+                "side": "CLIENT"
+            },
             "addonId": "RPniVkER",
             "fileId": "dyNfb9Sa"
         }
@@ -13,11 +16,17 @@
             "installationPolicy": {
                 "name": "Celeritas"
             },
+            "metadata": {
+                "side": "CLIENT"
+            },
             "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.3-146-g7ead0b54-20260416T011650/celeritas-forge-mc12.2-2.4.0-dev.jar"
         },
         {
             "installationPolicy": {
                 "name": "FastEntityRender"
+            },
+            "metadata": {
+                "side": "CLIENT"
             },
             "url": "https://github.com/Meldexun/FastEntityRender/releases/download/v1.12.2-1.0.1/FastEntityRender-1.12.2-1.0.1.jar"
         }
@@ -34,12 +43,18 @@
             "installationPolicy": {
                 "name": "JEI Area Fixer"
             },
+            "metadata": {
+                "side": "CLIENT"
+            },
             "addonId": 1085598,
             "fileId": 7264095
         },
         {
             "installationPolicy": {
                 "name": "Mouse Tweaks Unofficial"
+            },
+            "metadata": {
+                "side": "CLIENT"
             },
             "addonId": 461660,
             "fileId": 5876158
