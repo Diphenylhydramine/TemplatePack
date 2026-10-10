@@ -1,0 +1,18 @@
+filename = 'asynclogger-2.2.0+1.12.2-forge.jar'
+name = 'Async Logger'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.0+1.12.2-forge'
+
+[download]
+hash = '6c8c3e62c92c78ebe7de4417936dca91099d1ec80a974bd08767fa725c27c94d198a973eb82200b65218be86c29b66bf49df9c8c92bdb1837d13304e7b0e205a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zvNzKfGF/versions/VUbbq4rG/asynclogger-2.2.0%2B1.12.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'zvNzKfGF'
+version = 'VUbbq4rG'

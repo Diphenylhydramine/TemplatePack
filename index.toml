@@ -50,6 +50,11 @@ hash = "492ed704dd06602cb31e286366957650578ee2e8a2f24308ec796688274be1c9"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "abc4e6090370385e566d4fb6ec82c31f20d54b4fbdbe784ba0a2861fe9ce6928"
+metafile = true
+
+[[files]]
 file = "mods/configanytime.pw.toml"
 hash = "e1264f5fc6fece66304c07722b9222640ece19bf97a91ef4fcf681d005bf2693"
 metafile = true
@@ -91,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "eae91363eded520657a6f83f2b8b20e407bb06fe370b41995680542b0661ec42"
+hash = "bc2bb42a61af78c5191b78a23c3ea79829870dcef4b29bb187d5bdf3d62730d7"
 metafile = true
 
 [[files]]
