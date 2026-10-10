@@ -10,7 +10,7 @@ hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "ea48d43c32c611cdde28355b518bcd27b0f229aee124fd316ab463d42363e1da"
+hash = "6ec2c0411a0b6ddeaff5a1c6b0130f2a05ed1c57aea589af1e0eb1310e394992"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
@@ -22,7 +22,7 @@ hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "8058a44066438bd6eef75b59c9912589927797f5fb11eb07ad1a19265fbe3479"
+hash = "1989ae0ac56f15562cbaa6a3f5f7ad1ce65ce193708629ac21bc136cc0bf70fd"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiummixins.pw.toml"
-hash = "263f1915cbf139831d6c4490d0607ae5828b5dfa0ce5a66d893d71d9bffad748"
+hash = "57dd1f791ac30c19e7422e1ca14a69a812d28740408a05273f8c9db9f1c44242"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "6ec20d1e6e758f7af141d1914ca4d25894496bbf368602e1538d2f8ce3650af3"
+hash = "544a8808b3723b8db13042ace87a3a68e5e9fbd53f1aa2498e531d9605e635b9"
 metafile = true
 
 [[files]]
