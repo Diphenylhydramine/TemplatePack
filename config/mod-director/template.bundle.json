@@ -9,6 +9,13 @@
             },
             "addonId": "RPniVkER",
             "fileId": "dyNfb9Sa"
+        },
+        {
+            "installationPolicy": {
+                "name": "Celeritas Leaf Culling"
+            },
+            "addonId": "Ulyqqa6E",
+            "fileId": "6gpYZ9e9"
         }
     ],
     "url": [
@@ -20,15 +27,6 @@
                 "side": "CLIENT"
             },
             "url": "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.3-150-g6f3cb342-20260510T012945/celeritas-forge-mc12.2-2.4.0-dev.jar"
-        },
-        {
-            "installationPolicy": {
-                "name": "FastEntityRender"
-            },
-            "metadata": {
-                "side": "CLIENT"
-            },
-            "url": "https://github.com/Meldexun/FastEntityRender/releases/download/v1.12.2-1.0.1/FastEntityRender-1.12.2-1.0.1.jar"
         }
     ],
     "curse": [

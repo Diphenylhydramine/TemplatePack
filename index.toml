@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "9c71ed7bbfd3e76f0238b9019be73eb2069faf48c45720b3b47afeebaf56da74"
+hash = "49da3328858e2c1c2b75cdd62ccf38089122888ca0aefad1cb347b194448604e"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -22,7 +22,7 @@ hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "b64011b1befd2b51a44b15a6d17d55e38388f99f87691a81bbefc772aa5e6945"
+hash = "8058a44066438bd6eef75b59c9912589927797f5fb11eb07ad1a19265fbe3479"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -38,7 +38,7 @@ hash = "f9f35ad5c4c1556f0bf1f1dc939aaad2827041822e5bda5ed736a6c40b140e81"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "e00a3008a7dda28a39cb034ff3ce8171a9330a0f209ed4ce5102128ad7412493"
+hash = "4bc0a36709218c4ee565563d37841750e7d012a805a585eb95e927d2b481f0c6"
 
 [[files]]
 file = "config/relauncher.json"
