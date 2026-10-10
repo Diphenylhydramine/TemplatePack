@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "0cfd9411d9bbdc6c2ecc8cbe621b53c96364055324cf95976a2d15baa5b287a3"
+hash = "b6e58c2a8522d4b5b05914825bda48628ebd6a3af8b44c545d6ce5ffe3184168"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -10,19 +10,19 @@ hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "6ec2c0411a0b6ddeaff5a1c6b0130f2a05ed1c57aea589af1e0eb1310e394992"
+hash = "81ac490d258296e8c2d4bd4360c88897ff9f389d47df2025294450fe69414b64"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "50c53635c52b966cbe3bddb72324ce26dd451883bd301f1a4e8d4af8d9ad3abf"
+hash = "7560e6fba65ec08ba60a7238cdc4ed20a72bb7422914a9de1a0ae4d0245a34a9"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
+hash = "d6e309aa9ed8475015f79d2ffd39d1eba1cad804fdf51c5a22bf80ac25afb62a"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "2f6234b182a6f571a465cfc8a9b4cabb2397507f6a3a806f24240a4beaa50274"
+hash = "a523c4d12e1bc29db9cb212ed064b387452b8b12cf255d9119828ec42b07639d"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -34,11 +34,11 @@ hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "2bd58bf6f263b4cc7e4ff11fd648e132a9f59c564018d9018a43908ead005eb0"
+hash = "606a99917b00e595f5560ec642df59f702fb86541b7ad76e452e8956e43485f9"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "e3c40b6cd79688e2feca23770adc95f04d69ad421ddc46381dbaa34db3abdc2c"
+hash = "b21d6f41bd68736b7f20f2918f2a44cb126962dbc2deb70c638f82595cc97520"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "544a8808b3723b8db13042ace87a3a68e5e9fbd53f1aa2498e531d9605e635b9"
+hash = "f8e1bc9e1f7aef0edf10bf8a8a739881fd199a40d69b0119abe7e913b045d99c"
 metafile = true
 
 [[files]]

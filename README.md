@@ -1,13 +1,13 @@
 # TemplatePack
 A template that I use for my modpacks
 
-# [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.26.0.mrpack?download=1)
+# [DOWNLOAD](https://tangled.org/hydratedbean.tngl.sh/TemplatePack/raw/main/TemplatePack-2026.27.0.mrpack?download=1)
 
 ## Included mods
 - [Alfheim](https://modrinth.com/mod/alfheim-lighting-engine) (1.6)
 - [Alternate Current Unofficial](https://modrinth.com/mod/alternate-current-unofficial) (1.4.2)
 - [Async Logger](https://modrinth.com/mod/asynclogger) (2.2.2)
-- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-2edc3d211b9abdb6c8af51d4f96cd7b201024640-20260917T015550)
+- [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) (commit-06999aabc2ea41a772ea3d0888c88a9e72d09f02-20260922T020003)
 - [Cleanroom Relauncher](https://modrinth.com/mod/cleanroom-relauncher) (1.1.4)
 - [ConfigAnytime](https://modrinth.com/mod/configanytime) (3.0)
 - [FermiumASM](https://modrinth.com/mod/fermiumasm) (5.31)
@@ -25,6 +25,6 @@ A template that I use for my modpacks
 - [Reach Fix](https://modrinth.com/mod/reach-fix) (1.1.3)
 - [Red Core](https://modrinth.com/mod/red-core) (0.7.1)
 - [Scalar Legacy](https://legacy.curseforge.com/minecraft/mc-mods/scalar-legacy) (1.0.1)
-- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.1)
-- [Universal Tweaks](https://modrinth.com/mod/universal-tweaks) (1.20.1)
+- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.2)
+- [Universal Tweaks](https://modrinth.com/mod/universal-tweaks) (1.21.0)
 - [VintageFix](https://modrinth.com/mod/vintagefix) (0.7.1)
