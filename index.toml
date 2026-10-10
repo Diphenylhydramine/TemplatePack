@@ -22,7 +22,7 @@ hash = "1c68072ed9f4a2cbb6dd0fd59a2d6143171cbd912bca5cc6cb4369a4ccd41734"
 
 [[files]]
 file = "config/fermiummixins.cfg"
-hash = "46ef06317e252c915dbce264f7ea4b4e515b347fde5736dad4e423fcf08d0401"
+hash = "b64011b1befd2b51a44b15a6d17d55e38388f99f87691a81bbefc772aa5e6945"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
