@@ -34,11 +34,11 @@ hash = "d94fafd8e42910843ee5b175ecaca2b97920d8ffe5de0182c6104cc8027b135c"
 
 [[files]]
 file = "config/mod-director/template.bundle.json"
-hash = "97c5783bfef2285264d201c14dfc5d59d933865808829d1c66b536ed56d9643b"
+hash = "31c79eb90d5723d874038cfee41014bbf2879e82274ca9a3430d5e29ad06e413"
 
 [[files]]
 file = "config/relauncher.json"
-hash = "a6f691c1dc03064a93299bf1c0eeee0b3d59c2a028f64c2e947f6796b91e97c1"
+hash = "bd2611c2c4a76e276c442ec8e1c094a21a3516d5a8d18ecb5bc26116186dc550"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "3d6318e93b200e8754a886ccbedf6a20db2d9f8a85b716a46e4065d78e967871"
+hash = "0817a101981454b7010bcb454d659f8d5fa20da2cfec7df28d10f9f26566b063"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "520d3308fb6de73c109e2e81b8834e08982f6d6871ad8752d2639dc0cd4e4317"
+hash = "a5a92dd795393f428b1a8ed716f682d90c841e270eea3bd50d9aaff62bde5b31"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 {
-  "selectedVersion": "0.6.8-alpha",
-  "latestVersion": "0.6.8-alpha",
+  "selectedVersion": "0.6.10-alpha",
+  "latestVersion": "0.6.10-alpha",
   "targetJavaVersion": 25,
   "targetVendor": "Azul Zulu",
   "javaPath": "",
@@ -8,7 +8,7 @@
   "autoSetup": true,
   "enableRelauncher": true,
   "fetchUpdates": false,
-  "clearCleanroomFolder": false,
+  "clearCleanroomFolder": true,
   "clearJavaProvisionFolder": false,
   "darkMode": false
 }
