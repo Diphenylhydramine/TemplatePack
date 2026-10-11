@@ -14,7 +14,7 @@ hash = "81ac490d258296e8c2d4bd4360c88897ff9f389d47df2025294450fe69414b64"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "0e5aaae51739407b53d27ff18d75db24b3ad1f29eb49acab2daa7af8c8764289"
+hash = "0b298b7868908e1fbfda93be51f422a7b65e4890159c2b80aad4c2a46b87eee2"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -34,7 +34,7 @@ hash = "df12ff651442c004d30cff3749e6056bd5ed51dfc5e8424833ad5b4d79128dd4"
 
 [[files]]
 file = "config/stellar_core.cfg"
-hash = "b00e756cbb6b5522db795227e7713317250e6eb452890f30d9e5f02164867f05"
+hash = "fe7f5f26a2764b9d8e587e0ab3122ce1c326f80034314bd009c1654b8c69c978"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarcore.pw.toml"
-hash = "a8e64a91a5daad58c4bb960dea4361f86b58cd52c7ee4c48d389d2e797866a22"
+hash = "4b70ac9ed586329b12413e6e4bf87a357c7bd57833ac759b5c30d22787e01fd4"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "36890a5a75e29d658c7c36debcd8d13414a9372b0076a1e26dfd2c6de6ec6a63"
+hash = "0f56feb63f273e6b05383eb2866255074b453c93a7b495362639814501c48cb6"
 metafile = true
 
 [[files]]

@@ -21,9 +21,9 @@
 - [Red Core](https://legacy.curseforge.com/minecraft/mc-mods/red-core) (0.7.1)
 - [Scalar Legacy](https://legacy.curseforge.com/minecraft/mc-mods/scalar-legacy) (1.0.1)
 - [Sledgehammer](https://legacy.curseforge.com/minecraft/mc-mods/sledgehammer) (2.0.26-thin)
-- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.3)
+- [StellarCore](https://legacy.curseforge.com/minecraft/mc-mods/stellarcore) (1.6.4)
 - [Universal Tweaks](https://legacy.curseforge.com/minecraft/mc-mods/universal-tweaks) (1.21.0)
-- [VintageFix](https://legacy.curseforge.com/minecraft/mc-mods/vintagefix) (0.7.1)
+- [VintageFix](https://legacy.curseforge.com/minecraft/mc-mods/vintagefix) (0.7.2)
 </details>
 
 ## Rendering mods
