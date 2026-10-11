@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarcore.pw.toml"
-hash = "4b70ac9ed586329b12413e6e4bf87a357c7bd57833ac759b5c30d22787e01fd4"
+hash = "4e71ebcd1bd75fa838665553e873bbb696c6b28ace3b282cb837791ddcc1ab85"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "0f56feb63f273e6b05383eb2866255074b453c93a7b495362639814501c48cb6"
+hash = "1c7607380a27c6bcd75c77e63f25aa0a8d1389be8115fb0bd209c2bffd71af96"
 metafile = true
 
 [[files]]

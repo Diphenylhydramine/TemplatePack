@@ -1,6 +1,6 @@
 filename = 'vintagefix-0.7.2.jar'
 name = 'VintageFix'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
