@@ -22,7 +22,7 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/fugue.cfg"
-hash = "13b79d9a893aa647d3c3b6555a465756843319e23ae4ba62e1fd4cd46666b3b3"
+hash = "61bd281a34bdd2a793f581dbc7980f1248c58f3497f0f52e1389a5c25e776493"
 
 [[files]]
 file = "config/mod-director/modpack.json"
@@ -31,6 +31,10 @@ hash = "26ad7e1bad9e686bd564ab5b0bd9bc53f32347ee385c51d0beb9196b5db95991"
 [[files]]
 file = "config/mod-director/template.bundle.json"
 hash = "df12ff651442c004d30cff3749e6056bd5ed51dfc5e8424833ad5b4d79128dd4"
+
+[[files]]
+file = "config/relauncher.json"
+hash = "2c9359c0bedc6045b97e6d1a4e3579d6b220e79098ed6a34f2cf0ebc9d5de00b"
 
 [[files]]
 file = "config/stellar_core.cfg"
@@ -43,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "b26effb662725e53b68dca93cfeddf0def230bf293a87c00541a29a9ce5e2dab"
+hash = "218e9d26ed1795bc4d33f184c5992f7d85470feb79f25b231b89eb8bf965ed06"
 metafile = true
 
 [[files]]
 file = "mods/cleanroom-relauncher.pw.toml"
-hash = "6973586f6193c0df76b7bb288adc34e997c9b079fa6f87edbb74879fb04f420a"
+hash = "37f31d3f140b771547eb0412c56e3c63960da980fca0718abc0fb3ba96f9ee09"
 metafile = true
 
 [[files]]
@@ -63,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "88f5623f2cac6a71d9b181f18713d0c69e14d1fe87be5428a86f65b200188748"
+hash = "00cdf31468fc9323605038d9e71289ab26a2c6d7a486a9ae54a72243c005f77d"
 metafile = true
 
 [[files]]

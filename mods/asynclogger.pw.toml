@@ -1,18 +1,18 @@
-filename = 'asynclogger-2.2.2+1.12.2-forge.jar'
+filename = 'asynclogger-2.2.3+1.12.2-forge.jar'
 name = 'Async Logger'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Async Logger 2.2.2+1.12.2-forge'
+x-prismlauncher-version-number = 'Async Logger 2.2.3+1.12.2-forge'
 
 [download]
-hash = '35a759cb93482d958603cc253bcdb1fec72eca60'
+hash = '26dae42d685f2395eb69254c18f37cec913dcb72'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8631003
+file-id = 9173765
 project-id = 1491426
