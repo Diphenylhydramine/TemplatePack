@@ -9,7 +9,7 @@
 - [Cleanroom Relauncher](https://legacy.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) (1.1.5)
 - [Contents Director](https://legacy.curseforge.com/minecraft/mc-mods/contents-director) (1.0.0)
 - [FermiumASM](https://legacy.curseforge.com/minecraft/mc-mods/fermiumasm) (5.31)
-- [FermiumBooter](https://legacy.curseforge.com/minecraft/mc-mods/fermiumbooter) (1.5.3)
+- [FermiumBooter](https://legacy.curseforge.com/minecraft/mc-mods/fermiumbooter) (1.6.0)
 - [Fixeroo](https://legacy.curseforge.com/minecraft/mc-mods/xp-orb-clump) (2.3.7)
 - [FPS Reducer](https://legacy.curseforge.com/minecraft/mc-mods/fps-reducer) (1.20)
 - [Fugue](https://legacy.curseforge.com/minecraft/mc-mods/fugue) (0.24.4)
@@ -31,6 +31,5 @@ Not included by default because performance varies depending on hardware. You sh
 
 | GPU Brand | Recommended Mod |
 |-----------|-----------------|
-| Nvidia    | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
 | AMD       | [Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build) |
-| Intel     | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) + [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium) |
+| Nvidia or Intel    | [Nothirium](https://legacy.curseforge.com/minecraft/mc-mods/nothirium) (requires [Naughthirium](https://legacy.curseforge.com/minecraft/mc-mods/naughthirium)) |

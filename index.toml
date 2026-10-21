@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "00cdf31468fc9323605038d9e71289ab26a2c6d7a486a9ae54a72243c005f77d"
+hash = "64d335674143d0528366aa71d9162ebc8e3e841dce8cf18ff4c8377605647d48"
 metafile = true
 
 [[files]]
